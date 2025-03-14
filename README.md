@@ -5,25 +5,9 @@
 
 ---
 
-### 🏆 **Resumen Profesional**  
-Soy un **ingeniero de software altamente calificado** con experiencia en **seguridad ofensiva (OffSec), ecosistemas impulsados por IA y aplicaciones multiplataforma**. Mi experiencia abarca el desarrollo de **software para web, dispositivos móviles y escritorio**, con enfoque en **seguridad, escalabilidad y alto rendimiento**.  
-
-🔹 **Áreas de Especialización:**  
-✅ **Sistemas de IA Multiagente** 🤖 | **Ciberseguridad & Pentesting** 🔐 | **Aplicaciones Blockchain & Bitcoin** ₿  
-✅ **Desarrollo Web & Móvil** 📱💻 | **Computación en la Nube & DevOps** ☁️ | **Ingeniería Full-Stack** 🏗️  
+✅ **Ciberseguridad & Pentesting** 🔐 | **Aplicaciones Blockchain & Bitcoin** ₿  
+✅ **Desarrollo Web & Móvil** 📱💻 | **Computación en la Nube & DevOps** ☁️
 ✅ **Forensia Digital & Respuesta a Incidentes** 🛡️ | **Sistemas Embebidos & IoT** 🌍  
-
-He diseñado y construido **ecosistemas tecnológicos** que integran IA con seguridad, finanzas y soluciones para ciudades inteligentes. Algunos de mis proyectos incluyen:  
-✔ **Soluciones empresariales escalables** 🏢  | **Aplicaciones seguras de Bitcoin** ₿  
-✔ **Apps de seguridad ciudadana** 🚓 | **Plataformas de entrega de comida** 🍔 |  **Agentes de IA y sistemas multiagente** 🤖
-
----  
-
-### 🚀 **En Qué Estoy Trabajando Actualmente**
-- 🏗️ Desarrollo de **ecosistemas multiplataforma** 🤖  
-- 🔐 Mejora de **herramientas de ciberseguridad y pentesting** 🛡️  
-- 🚀 Creación de **aplicaciones nativas en la nube** con automatización DevOps ☁️  
-- 🔬 Investigación en **seguridad blockchain y aplicaciones descentralizadas** ₿  
 
 ---  
 
