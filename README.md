@@ -3,7 +3,9 @@
 🚀 **IngSof | OffSec 🛡 | 📍 🇵🇪**  
 
 ✅ **Ciberseguridad & Pentesting** 🔐 | **Aplicaciones Blockchain & Bitcoin** ₿  
+
 ✅ **Desarrollo Web & Móvil** 📱💻 | **Computación en la Nube & DevOps** ☁️
+
 ✅ **Forensia Digital & Respuesta a Incidentes** 🛡️ | **Sistemas Embebidos & IoT** 🌍  
 
 ---  
